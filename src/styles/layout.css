@@ -1,0 +1,50 @@
+.panel-group {
+  background-color: #1e1e1e;
+  color: #cccccc;
+}
+
+.panel-item {
+  background-color: #1e1e1e;
+  min-width: 0;
+  min-height: 0;
+}
+
+.resize-handle {
+  background-color: rgba(0, 0, 0, 0.2);
+  transition: background-color 0.2s ease;
+  position: relative;
+}
+
+.resize-handle:hover,
+.resize-handle:active {
+  background-color: #007acc;
+}
+
+/* Horizontal handle (vertical line) */
+.resize-handle.horizontal {
+  width: 4px;
+  margin: 0 -2px;
+  z-index: 100;
+}
+
+/* Vertical handle (horizontal line) */
+.resize-handle.vertical {
+  height: 4px;
+  margin: -2px 0;
+  z-index: 100;
+}
+
+.panel-group.horizontal > .resize-handle {
+  cursor: col-resize;
+}
+
+.panel-group.vertical > .resize-handle {
+  cursor: row-resize;
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: rgba(30, 30, 30, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
