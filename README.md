@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://assets.solidjs.com/banner?type=resizable-panels-solid&background=tiles&project=" alt="resizable-panels-solid" />
+  <img
+  width="100%"
+  src="https://assets.solidjs.com/banner?type=resizable-panels-solid&background=tiles&project=resizable-panels-solid"
+  alt="resizable-panels-solid"
+/>
 </p>
 
 <br/>
