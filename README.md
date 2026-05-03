@@ -270,4 +270,24 @@ Generated using the **SolidJS CLI**
 
 ## 📜 License
 
+<<<<<<< HEAD
 MIT — build cool things 🚀
+=======
+MIT — build cool things 🚀
+
+```
+
+---
+
+# 💡 If you want next upgrade
+I can also help you make:
+
+- 🔥 GitHub repo landing page (beautiful UI)
+- 🎨 animated demo GIF / video script
+- 🧠 architecture diagram (like Radix UI docs)
+- 🚀 npm package SEO optimization
+- ⚡ real “shadcn-style” docs site (VitePress / Astro)
+
+Just say 👍
+```
+>>>>>>> 7b8453507699c1cb47d9b36217b27b3c0279827f
