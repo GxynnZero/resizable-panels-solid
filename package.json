@@ -1,6 +1,6 @@
 {
   "name": "resizable-panels-solid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Flexible and accessible resizable panel layouts for SolidJS",
   "license": "MIT",
   "author": "Gagan Shetty",
